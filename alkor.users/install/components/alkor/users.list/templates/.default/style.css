@@ -1,0 +1,15 @@
+div#sidebar {
+    display: none;
+}
+div#workarea {
+    width: 100%;
+}
+th, td {
+    padding: 15px 10px;
+}
+thead {
+    background-color: #9ed5d7;
+}
+tbody tr:nth-child(even) {
+    background-color: #edf7f7;
+}

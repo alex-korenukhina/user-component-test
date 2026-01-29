@@ -1,0 +1,14 @@
+div#sidebar {
+    display: none;
+}
+div#workarea {
+    width: 100%;
+}
+.info p span {
+    padding-right: 10px;
+    font-weight: bold;
+}
+.groups p span {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
